@@ -2,8 +2,8 @@
 import "./App.css";
 import { useEffect } from "react";
 
-import profilePic from "./assets/portfolio pic.jpeg";
-import profile from "./assets/profile.jpeg";
+import profilePic from "./assets/portfoliopic.png";
+import profile from "./assets/profile.png";
 import portfoliopic from "./assets/portfoliopic.png";
 import skyscopeImg from "./assets/skyscope.png";
 import cartifyImg from "./assets/cartify.png";
